@@ -1,0 +1,1 @@
+Projeto de cunho didático com tutorial para a ferramenta Git.
